@@ -1,4 +1,4 @@
-# centroIDA
+# CCA-LSC
 
 Run the following commands to install `tllib` and all the dependency.
 ```shell
